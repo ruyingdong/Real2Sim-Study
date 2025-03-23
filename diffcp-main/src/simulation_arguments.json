@@ -1,0 +1,48 @@
+{
+    "dt": 0.0003,
+    "n_grid": 10,
+    "scene_scaling": 0.5,
+    "initial_frame": 0,
+    "end_frame": 3000,
+    "operator_update_interval": 0.003,
+    "clip_IFS": 0.8,
+    "grad_update_interval": 0.288,
+    "operator_parameters": {
+        "operator_edge_length": 0.0001,
+        "n_operator_particles": 10,
+        "operator_mass": 9.9
+    },
+    "rigid_cube_parameters": {
+        "rigid_cube_side_length": 0.14,
+        "n_rigid_cube_particles": 150,
+        "cube_mass": 999
+    },
+    "garment_parameters": {
+        "number_of_triangles": 15000,
+        "sim_number_of_triangles": 3100,
+        "constitutive_parameter_upper_bounds": {
+            "E": 1000,
+            "nu": 0.45,
+            "contact_stiffness": 5000,
+            "shearing_stiffness": 1000
+        },
+        "constitutive_parameter_lower_bounds": {
+            "E": 1,
+            "nu": 0.01,
+            "contact_stiffness": 10,
+            "shearing_stiffness": 1,
+            "internal_friction_angle": 1,
+            "damping": 0.1
+        },
+        "initial_constitutive_parameters": {
+            "E": 47,
+            "nu": 0.18,
+            "contact_stiffness": 100,
+            "shearing_stiffness": 110
+        },
+        "garment_mass": 0.07
+    },
+    "data_dir": "/../data/",
+    "result_dir": "/../result/",
+    "n_pose_estimation_output": 53
+}

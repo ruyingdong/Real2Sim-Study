@@ -1,0 +1,203 @@
+Epoch 30/30. Train set: Average loss:0.1727 Accuracy:92.6736
+Epoch 30/30. Validation set: Average loss:0.2914 Accuracy:88.5648
+PhySNet Completed!
+
+Epoch 30/30. Train set: Average loss:0.1859 Accuracy:92.1181
+Epoch 30/30. Validation set: Average loss:0.3476 Accuracy:86.5278
+PhySNet Completed!
+
+Epoch 30/30. Train set: Average loss:0.1296 Accuracy:94.6296
+Epoch 30/30. Validation set: Average loss:0.1861 Accuracy:93.2407
+PhySNet Completed!
+
+Epoch 30/30. Train set: Average loss:0.2741 Accuracy:88.5532
+Epoch 30/30. Validation set: Average loss:0.4263 Accuracy:82.4074
+PhySNet Completed!
+
+black_denims_exp_02
+Epoch 30/30. Train set: Average loss:0.2836 Accuracy:88.2870
+Epoch 30/30. Validation set: Average loss:0.4270 Accuracy:82.7778
+PhySNet Completed
+
+white tablecloth_exp_04
+Epoch 30/30. Train set: Average loss:0.2525 Accuracy:89.4792
+Epoch 30/30. Validation set: Average loss:0.4135 Accuracy:83.1481
+
+SDN
+Epoch 30/30. Train set: Average loss:0.0896 Accuracy:96.7014
+Epoch 30/30. Validation set: Average loss:0.2350 Accuracy:91.4352
+
+Sparkle_Fleece
+Epoch 30/30. Train set: Average loss:0.3320 Accuracy:85.8912
+Epoch 30/30. Validation set: Average loss:0.5503 Accuracy:77.1296
+PhySNet Completed!
+
+Sparkle_Fleece_Alexnet_Without_Averagepool
+Epoch 30/30. Train set: Average loss:0.4664 Accuracy:79.5486
+Epoch 30/30. Validation set: Average loss:0.4976 Accuracy:79.0741
+PhySNet Completed!
+
+Sparkle_Fleece_Alexnet_Without_Averagepool_SDN_depth
+Epoch 30/30. Train set: Average loss:0.1324 Accuracy:94.4676
+Epoch 30/30. Validation set: Average loss:0.1664 Accuracy:92.9630
+PhySNet Completed!
+
+Sparkle_Fleece_ResNet18_Without_Averagepool
+Epoch 30/30. Train set: Average loss:0.3924 Accuracy:82.9861
+Epoch 30/30. Validation set: Average loss:0.4701 Accuracy:79.9537
+PhySNet Completed!
+
+Sparkle_Fleece_ResNet18_Without_Avergpool_50
+Epoch 30/30. Train set: Average loss:0.3217 Accuracy:86.6435
+Epoch 30/30. Validation set: Average loss:0.4758 Accuracy:79.2593
+PhySNet Completed!
+
+Sparkle_Fleece_ResNet34_Without_Averagepool
+Epoch 30/30. Train set: Average loss:0.4455 Accuracy:81.0995
+Epoch 30/30. Validation set: Average loss:0.5176 Accuracy:77.2685
+PhySNet Completed!
+
+Ponte_Roma_ResNet18_Without_Averagepool_SDN_depth
+Epoch 30/30. Train set: Average loss:0.2463 Accuracy:89.3056
+Epoch 30/30. Validation set: Average loss:0.3230 Accuracy:86.5278
+PhySNet Completed!
+
+White_Tablecloth_ResNet18_Without_Averagepool
+Epoch 30/30. Train set: Average loss:0.3192 Accuracy:86.3310
+Epoch 30/30. Validation set: Average loss:0.4166 Accuracy:82.5000
+PhySNet Completed!
+
+Black_Denim_ResNet18_Without_Averagepool
+Epoch 30/30. Train set: Average loss:0.2086 Accuracy:90.9954
+Epoch 30/30. Validation set: Average loss:0.2513 Accuracy:90.2315
+PhySNet Completed!
+
+Ponte Roma SDN
+Epoch 30/30. Train set: Average loss:0.1846 Accuracy:92.6273
+Epoch 30/30. Validation set: Average loss:0.4056 Accuracy:83.8426
+PhySNet Completed!
+
+Red Violet SDN
+Epoch 30/30. Train set: Average loss:0.1455 Accuracy:94.5602
+Epoch 30/30. Validation set: Average loss:0.3387 Accuracy:86.5741
+PhySNet Completed!
+
+Pink Nylon
+Epoch 30/30. Train set: Average loss:0.2729 Accuracy:88.7500
+Epoch 30/30. Validation set: Average loss:0.4406 Accuracy:82.5000
+PhySNet Completed!
+
+SENet-50 White Tablecloth
+Epoch 30/30. Train set: Average loss:0.4118 Accuracy:82.7199
+Epoch 30/30. Validation set: Average loss:0.5404 Accuracy:76.5278
+PhySNet Completed!
+
+WideResNet-50 White Tablecloth
+Epoch 30/30. Train set: Average loss:0.3724 Accuracy:84.1319
+Epoch 30/30. Validation set: Average loss:0.4926 Accuracy:78.7500
+PhySNet Completed!
+
+SGEResNet-50 White Tablelcoth
+Epoch 30/30. Train set: Average loss:0.4602 Accuracy:80.2199
+Epoch 30/30. Validation set: Average loss:0.5649 Accuracy:76.1111
+PhySNet Completed!
+
+SGEResNet-50 (60 epochs) White Tablecloth
+Epoch 60/60. Train set: Average loss:0.4619 Accuracy:79.7801
+Epoch 60/60. Validation set: Average loss:0.5625 Accuracy:75.9722
+PhySNet Completed!
+
+SGEResNet-18 (All Parameter Training) White Tablecloth
+Epoch 30/30. Train set: Average loss:0.4038 Accuracy:82.9514
+Epoch 30/30. Validation set: Average loss:0.4583 Accuracy:80.1852
+PhySNet Completed!
+
+SGEResNet-50 (All Parameter Training) White Tablecloth
+Epoch 30/30. Train set: Average loss:0.2714 Accuracy:88.5764
+Epoch 30/30. Validation set: Average loss:0.5493 Accuracy:76.9907
+PhySNet Completed!
+
+SGEResNet-18 (A) Ponte Roma
+Epoch 30/30. Train set: Average loss:0.2128 Accuracy:91.2500
+Epoch 30/30. Validation set: Average loss:0.4782 Accuracy:79.7685
+PhySNet Completed!
+
+SGEResNet-18 (A) Gray Interlock
+Epoch 30/30. Train set: Average loss:0.3291 Accuracy:85.8912
+Epoch 30/30. Validation set: Average loss:0.3750 Accuracy:84.1204
+PhySNet Completed!
+
+SGEResNet-18 (A) Black Denim
+Epoch 30/30. Train set: Average loss:0.3291 Accuracy:85.8912
+Epoch 30/30. Validation set: Average loss:0.3750 Accuracy:84.1204
+PhySNet Completed!
+
+SGEResNet-18 (A) White Tablecloth
+Epoch 30/30. Train set: Average loss:0.3460 Accuracy:85.4514
+Epoch 30/30. Validation set: Average loss:0.4265 Accuracy:80.6481
+PhySNet Completed!
+
+SGEResNet-18 (A) Black Denim
+Epoch 30/30. Train set: Average loss:0.1744 Accuracy:92.5810
+Epoch 30/30. Validation set: Average loss:0.2012 Accuracy:91.7130
+PhySNet Completed!
+
+SGEResNet-18 (A) Sparkle Fleece
+Epoch 30/30. Train set: Average loss:0.4036 Accuracy:82.8704
+Epoch 30/30. Validation set: Average loss:0.4706 Accuracy:80.3704
+PhySNet Completed!
+
+SGEResNet-18 (A) Red Violet
+Epoch 30/30. Train set: Average loss:0.3798 Accuracy:83.5069
+Epoch 30/30. Validation set: Average loss:0.3946 Accuracy:84.2130
+PhySNet Completed!
+
+SGEResNet-18 (A) Ponte Roma
+Epoch 30/30. Train set: Average loss:0.3798 Accuracy:83.5069
+Epoch 30/30. Validation set: Average loss:0.3946 Accuracy:84.2130
+PhySNet Completed!
+
+SGEResNet-18 (A) Ponte Roma (new renderings)
+Epoch 30/30. Train set: Average loss:0.4029 Accuracy:82.6157
+Epoch 30/30. Validation set: Average loss:0.4210 Accuracy:81.6204
+PhySNet Completed!
+
+SGEResNet-18 (A) Red Violet (new renderings)
+Epoch 30/30. Train set: Average loss:0.3695 Accuracy:84.8032
+Epoch 30/30. Validation set: Average loss:0.4430 Accuracy:80.0000
+PhySNet Completed!
+
+GI SDN depth
+Epoch 30/30. Train set: Average loss:0.0895 Accuracy:96.2500
+Epoch 30/30. Validation set: Average loss:0.1950 Accuracy:92.4074
+PhySNet Completed!
+
+PR SDN DEPTH
+Epoch 30/30. Train set: Average loss:0.0907 Accuracy:96.5972
+Epoch 30/30. Validation set: Average loss:0.1786 Accuracy:93.0556
+PhySNet Completed!
+
+SF SDN DEPTH
+Epoch 30/30. Train set: Average loss:0.0910 Accuracy:96.2963
+Epoch 30/30. Validation set: Average loss:0.1949 Accuracy:92.4537
+PhySNet Completed!
+
+WT PhySNet RGB
+Epoch 30/30. Train set: Average loss:0.1488 Accuracy:94.0046
+Epoch 30/30. Validation set: Average loss:0.3194 Accuracy:88.8889
+PhySNet Completed!
+
+GI PhySNet RGB
+Epoch 30/30. Train set: Average loss:0.2847 Accuracy:88.3565
+Epoch 30/30. Validation set: Average loss:0.3919 Accuracy:84.4444
+PhySNet Completed!
+
+SF PhySNet RGB
+Epoch 30/30. Train set: Average loss:0.3740 Accuracy:85.5671
+Epoch 30/30. Validation set: Average loss:0.5672 Accuracy:77.6389
+PhySNet Completed!
+
+RV PhySNet RGB
+Epoch 30/30. Train set: Average loss:0.4049 Accuracy:84.5718
+Epoch 30/30. Validation set: Average loss:0.5416 Accuracy:78.3796
+PhySNet Completed!
