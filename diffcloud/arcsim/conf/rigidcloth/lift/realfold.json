@@ -1,0 +1,99 @@
+{
+    "frame_time": 0.1,
+    "frame_steps": 1,
+    "end_time": 10.01,
+    "cloths": [
+    {
+        "mesh": "meshes/fold5.obj",
+        "materials": [{"data": "materials/11oz-black-denim.json",
+                       "thicken": 10}],
+        "remeshing": {
+            "refine_angle": 0.3,
+            "refine_compression": 0.005,
+            "refine_velocity": 0.5,
+            "size": [10e-3, 200e-3],
+            "aspect_min": 0.2
+        }
+    }
+    ],
+    "motions": [
+        [
+            {
+                "time": 0
+            },
+            {
+                "time": 2.0,
+                "transform": {
+                    "translate": [
+                        -0.276,
+                        -0.025,
+                        0.356
+                    ],
+                    "scale": 1
+                }
+            },
+             {
+                "time": 4.0,
+                "transform": {
+                    "translate": [
+                        -0.56578,
+                        -0.065,
+                        0.44
+                    ],
+                    "scale": 1
+                }
+            },
+            {
+                "time": 6.0,
+                "transform": {
+                    "translate": [
+                        -1.1772,
+                        -0.102,
+                        0.467
+                    ],
+                    "scale": 1
+                }
+            },
+            {
+                "time": 8.0,
+                "transform": {
+                    "translate": [
+                        -1.5768,
+                        0.017,
+                        0.0
+                    ],
+                    "scale": 1
+                }
+            },
+	    {
+                "time": 10.0,
+                "transform": {
+                    "translate": [
+                        -1.62972,
+                        0.068,
+                        0.008
+                    ],
+                    "scale": 1
+                }
+            }
+
+        ]
+    ],
+    "handles": [ 
+        {"nodes": [48], "end_time": 11},
+        {"nodes": [48], "motion": 0, "start_time":0, "end_time": 11}
+    ],
+     "obstacles": [
+    {
+        "mesh": "meshes/rigidcloth/lift/plane.obj",
+        "transform":{"scale":1,"translate":[0,0,0.06],"rotate":[0,1,0,0]},
+        "movable": 0
+    }
+    ],
+    
+    "disable":["remeshing"],
+    "gravity":[0, 0, -9.8],
+    "obs_friction": 100000000,
+    "disable":["strainlimit"],
+    "magic": {"repulsion_thickness": 1e-2, "collision_stiffness": 1e7}
+}
