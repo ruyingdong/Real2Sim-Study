@@ -8,7 +8,7 @@ This paper presents a rigorous evaluation of Real-to-Sim parameter estimation ap
 
 # Dataset
 
-Fabric Types: Five fabrics of identical size (45 cm x 45 cm) with varying physical properties—from highly deformable to shape-retaining—including camel ponte roma, black denim, grey interlock, pink solid, and red jet set.
+&#8226;Dataset can be downloaded at 
 
 Imaging Setup: Two ZED2i cameras were positioned at the front and top to capture synchronized RGB-D image sequences at 15 Hz. For the stretching scenario, an additional ZED2 camera was positioned above the fabric at 30 Hz to mitigate inaccuracies caused by camera tilting.
 
