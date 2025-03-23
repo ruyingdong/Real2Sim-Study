@@ -17,3 +17,6 @@ This paper presents a rigorous evaluation of Real-to-Sim parameter estimation ap
 &#8226; Action Capture: A Rethink Robotics Baxter robot provided the action information. Baxter's zero-G mode was utilized for high-speed scenarios like shaking and fling, while predefined trajectories with linear interpolation ensured constant speed in other scenarios.
 
 &#8226; Dataset Overview: The complete dataset comprises synchronized RGB-D images, point clouds, and action information, totaling around 50 GB.
+
+# Real-to-Sim parameter estimation of fabrics
+
