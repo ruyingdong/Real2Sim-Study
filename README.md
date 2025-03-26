@@ -38,11 +38,43 @@ This paper presents a rigorous evaluation of Real-to-Sim parameter estimation ap
 ## Physnet
 #### Lift
 ```
-/Real2Sim-Study/Physnet#python main.py
+cd ./Physnet
+python main.py
 # Will produce a folder figures containing embedding visualizations
 ```
 #### Wind
 ```
-/Real2Sim-Study/Physnet#python main1.py
+cd ./Physnet
+python main1.py
 # Will produce a folder figures containing embedding visualizations
+```
+
+## PINN
+#### Stretch for diffsim simulator
+```
+cd ./PINN
+python pinngrey.py
+```
+#### Stretch for difftaichi simulator
+```
+cd ./PINN
+python pinntaichi1.py
+```
+
+# Sim-to-Real evaluation on different scenarios
+## For visualization
+#### Fold
+```
+cd ./Sim2Real visualization and metrics
+python foldsim2real.py
+```
+#### Fling
+```
+cd ./Sim2Real visualization and metrics
+python flingsim2real2.py
+```
+#### Shake
+```
+cd ./Sim2Real visualization and metrics
+python shakesim2real2.py
 ```
