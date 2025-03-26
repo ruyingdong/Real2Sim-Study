@@ -34,3 +34,15 @@ This paper presents a rigorous evaluation of Real-to-Sim parameter estimation ap
 (diffsim_torch3d)/pysim# python real2simwind.py
 # Will produce a folder wind_exps_diffcloud containing visualizations
 ```
+
+## Physnet
+#### Lift
+```
+/Real2Sim-Study/Physnet#python main.py
+# Will produce a folder figures containing embedding visualizations
+```
+#### Wind
+```
+/Real2Sim-Study/Physnet#python main1.py
+# Will produce a folder figures containing embedding visualizations
+```
