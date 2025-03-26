@@ -62,7 +62,7 @@ python pinntaichi1.py
 ```
 
 # Sim-to-Real evaluation on different scenarios
-## For visualization
+## For visualization and metrics
 #### Fold
 ```
 cd ./Sim2Real visualization and metrics
