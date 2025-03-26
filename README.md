@@ -19,7 +19,7 @@ This paper presents a rigorous evaluation of Real-to-Sim parameter estimation ap
 &#8226; Dataset Overview: The complete dataset comprises synchronized RGB-D images, point clouds, and action information, totaling around 50 GB.
 
 # Real-to-Sim parameter estimation of fabrics
-# Diffcloud
+## Diffcloud
 * Followed by Diffcloud setup, ensure that you are first inside the Docker container using the above step.
 ```
 (diffsim_torch3d)# cd pysim
