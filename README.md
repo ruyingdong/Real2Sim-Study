@@ -67,6 +67,12 @@ python pinntaichi1.py
 
 # Sim-to-Real evaluation on different scenarios
 ## For visualization and metrics
+### Conda environment for Diffcp and PINN can be setup using the ```environment.yml``` file
+#### 
+```
+conda env create -f environment1.yml
+conda activate pytorch3d
+```
 #### Fold
 ```
 cd ./Sim2Real visualization and metrics
