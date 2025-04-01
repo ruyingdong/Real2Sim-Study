@@ -22,6 +22,7 @@ This paper presents a rigorous evaluation of Real-to-Sim parameter estimation ap
 ## Diffcloud
 * Followed by [Diffcloud](https://github.com/ruyingdong/Real2Sim-Study/tree/main/diffcloud) setup, ensure that you are first inside the Docker container using the above step.
 * Provided are example scripts to run real-to-sim experiments. All target point clouds are provided in folder "demo_dir"
+* Simulation configurations files for simulating diffeent sceanrios are defined in the conf/rigidcloth/lift directory.
 ```
 (diffsim_torch3d)# cd pysim
 ```
