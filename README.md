@@ -37,7 +37,8 @@ This paper presents a rigorous evaluation of Real-to-Sim parameter estimation ap
 # Will produce a folder wind_exps_diffcloud containing visualizations
 ```
 ### Conda environment for Diffcp and PINN can be setup using the ```environment.yml``` file
-#### ```
+#### 
+```
 conda env create -f environment.yml
 conda activate PINN
 ```
