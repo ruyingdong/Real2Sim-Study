@@ -42,21 +42,18 @@ This paper presents a rigorous evaluation of Real-to-Sim parameter estimation ap
 conda env create -f environment.yml
 conda activate PINN
 ```
-## Physnet
+## Diffcp
+* The mesh files, trajectory files for different types of fabrics are all in folder "src"
+* Provided are example scripts to run real-to-sim experiments
 #### Lift
 ```
-cd ./Physnet
-python main.py
-# Will produce a folder figures containing embedding visualizations
-```
-#### Wind
-```
-cd ./Physnet
-python main1.py
-# Will produce a folder figures containing embedding visualizations
+cd ./Diffcp/src
+python parameter_fitting_main.py
 ```
 
 ## PINN
+* The input and output data for different types of fabrics are all in https://gla-my.sharepoint.com/:f:/g/personal/2649534r_student_gla_ac_uk/ElhpVzs8dTRPkxgEM4TtH3kBUrc24hZ7Wm5OVfyUIl-NBA?e=LChmsx
+* Provided are example scripts to run real-to-sim experiments
 #### Stretch for diffsim simulator
 ```
 cd ./PINN
